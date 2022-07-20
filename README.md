@@ -8,13 +8,13 @@
 
 #### Hi! I'm  **Alexandre**,
 
-##### A 38 years old computer scientist, I started in the support of proximity, I passed to the production, the project and the management.
+##### A 38 years old it manager/po, I started as the support technician, I moved to the IT production, the project and the management.
 ##### My background is mainly in banking, but I have also worked in energy, industry and communication.
 
 <br>
 
 #### Hi! I'm  also **Alexandre**, 
-##### A former traveler, 4x4 practitioner, meditation and reader of books on cognitive sciences.
+##### A former traveler, 4x4 practitioner, meditation geek and reader of books on cognitive sciences.
 ##### I also drive people in their understanding and in finding the best way to well-being.
 <br>
 
