@@ -1,5 +1,5 @@
 # Alexandre TAILHARDAT
-## _Manager, Project officer, PMO | +17 years XP_ <br>
+## _Manager, Project officer, PO | +17 years XP_ <br>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.linkedin.com/in/atailhardat/) <br>
 <br>
@@ -27,6 +27,7 @@ _Based in France_
 
 | Client | Role | Time | Var
 | -------| -----| ---- | ---- |
+| Freelance | Various role | Running | Available 🗞
 | SMC Consulting | Manager, PO, PreSales | 6 years | I've held different role in different missions described below:
 | ICDC           | BMC Discovery expert | 3 months | Drive the engineer team to fit the implementation needs
 | Société Générale | Project Officer on BI implementation for the whole tooling perimeter | 1 year | Kubernetes, Docker, Openshift, MQ, CFT, Sterling, Power BI, Elastic, Kafka, Druid, Grafana, ...
