@@ -27,21 +27,22 @@ _Based in France_
 
 ### 📌 Experiences in one shot
 
-| Client | Role | Time | Var
+| Client | Role | Time | Var |
 | -------| -----| ---- | ---- |
-| Freelance | Various role | Running | Available 🗞
-| SMC Consulting | Manager, PO, PreSales | 6 years | I've held different role in different missions described below:
-| ICDC           | BMC Discovery expert | 3 months | Drive the engineer team to fit the implementation needs
-| Société Générale | Project Officer on BI implementation for the whole tooling perimeter | 1 year | Kubernetes, Docker, Openshift, MQ, CFT, Sterling, Power BI, Elastic, Kafka, Druid, Grafana, ...
-| Société Générale | Flexera Software Asset Manager Architect | 2 years | +60K servers in scope, platform administration, licence compliance helper with the functionnal SAM team
-| Société Générale | Project manager | 1 year | BMC TSCO capacicity management implementation
-| Groupe ADP | Project manager  | 2 years shared time | Project manager: BMC Truesight migrations and tunning
-| Bouygues Construction | Project manager | 6 months shared time | Project manager: BMC Truesight migration and tunning with remote support 
-| Natixis | Technical project manager | 2 years | End user experience implementation with Iplable.Newtest +250 robots
-| GDF Suez | Technical project manager | 5 years | End user experience implementation with service catalog definition for REUM/Monitoring
-| HSBC Bank| Production Enginer | 1 year | CFT adminitrator & SSH Key exchange key admin
-| Pirelli | Systeme and Networkd administrator | 1 year 9 months | Windows, Linux, Cisco, SAP, Remote site, VIP Support
-| Publicis | Sandwich course | 2 years | System Administrator + Proximity support 
+| Freelance | Various role | Running | Available 🗞 |
+| SMC Consulting | Manager, PO, PreSales | 6 years | I've held different role in different missions described below: |
+| ICDC           | BMC Discovery expert | 3 months | Drive the engineer team to fit the implementation needs |
+| Société Générale | Project Officer on BI implementation for the whole tooling perimeter | 1 year | Kubernetes, Docker, Openshift, MQ, CFT, Sterling, Power BI, Elastic, Kafka, Druid, Grafana, ... |
+| Société Générale | Flexera Software Asset Manager Architect | 2 years | +60K servers in scope, platform administration, licence compliance helper with the functionnal SAM team |
+| Société Générale | Project manager | 1 year | BMC TSCO capacicity management implementation |
+| Groupe ADP | Project manager  | 2 years shared time | Project manager: BMC Truesight migrations and tunning |
+| Bouygues Construction | Project manager | 6 months shared time | Project manager: BMC Truesight migration and tunning with remote support |
+| Natixis | Technical project manager | 2 years | End user experience implementation with Iplable.Newtest +250 robots |
+| GDF Suez | Technical project manager | 5 years | End user experience implementation with service catalog definition for REUM/Monitoring |
+| HSBC Bank| Production Enginer | 1 year | CFT adminitrator & SSH Key exchange key admin |
+| Pirelli | Systeme and Networkd administrator | 1 year 9 months | Windows, Linux, Cisco, SAP, Remote site, VIP Support |
+| Publicis | Sandwich course | 2 years | System Administrator + Proximity support |
+
 <br>
 
 ### 💬 Languages
