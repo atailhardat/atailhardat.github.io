@@ -54,6 +54,3 @@ _Based in France_
  🏆 3rd years in IT security <br>
  🏆 BTEC Higher diploma in IT Network <br>
 
-<br>
-
-[![N|Solid](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/atailhardat/)
