@@ -1,23 +1,16 @@
 # Alexandre TAILHARDAT
 ## _Manager, Project officer, PMO | +17 years XP_ <br>
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.linkedin.com/in/atailhardat/) <br>
-____________________________________________________________________
-
 <br>
 <br>
-
 #### Hi! I'm  **Alexandre**,
 
 ##### A 38 years old computer scientist, I started in the support of proximity, I passed to the production, the project and the management.
 ##### My background is mainly in banking, but I have also worked in energy, industry and communication.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.linkedin.com/in/atailhardat/) <br>
 <br>
-<br>
-
 #### Hi! I'm  also **Alexandre**, 
 ##### A former traveler, 4x4 practitioner, meditation and reader of books on cognitive sciences.
 ##### I also drive people in their understanding and in finding the best way to well-being.
-
-
 <br>
 <br>
 <br>
@@ -40,7 +33,7 @@ ____________________________________________________________________
 | Publicis | Sandwich course | 2 years | System Administrator + Proximity support 
 
 ### Education 
- [x] Harvard Leardership management <br>          
+ [x] Harvard Leardership management <br>  
  [x] Pitch and public speaking <br>
  [x] Crisis management <br>
  [x] 3rd years in IT security <br>
