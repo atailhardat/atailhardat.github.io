@@ -13,7 +13,9 @@
 
 <br>
 
-#### Hi! I'm  also **Alexandre**, 
+### BUT ###
+
+####  I'm  also **Alexandre**, 
 ##### A former traveler, 4x4 practitioner, meditation geek and reader of books on cognitive sciences.
 ##### I also drive people in their understanding and in finding the best way to well-being.
 <br>
