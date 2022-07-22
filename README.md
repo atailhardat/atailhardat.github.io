@@ -55,6 +55,7 @@ _Based in France_
  🏆 Harvard Leardership management   
  🏆 Pitch and public speaking <br>
  🏆 Crisis management <br>
+ 🏆 PMI - Project manager <br>
  🏆 3rd years in IT security <br>
  🏆 BTEC Higher diploma in IT Network <br>
 
