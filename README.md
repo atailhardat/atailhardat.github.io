@@ -8,7 +8,7 @@
 
 #### Hi! I'm  **Alexandre**,
 
-##### A 38 years old it manager/po, I started as the support technician, I moved from the IT production to the project management and also the people skill up.
+##### A 38 years old it manager/po, I started as the support technician, then I travelled from the IT production to the project management and people empowerement.
 ##### My background is mainly in banking, but I have also worked in energy, industry and communication.
 
 <br>
